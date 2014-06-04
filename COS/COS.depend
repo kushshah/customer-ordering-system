@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1399160471 source:c:\users\kush\desktop\cos\main.cpp
+	<iostream>
+	<EggplantCasserole.h>
+	<TurkeySandwich.h>
+	<Salmon.h>
+	<FIList.h>
+	<cstring>
+	<stdlib.h>
+	<conio.h>
+	<limits>
+
+1399152094 c:\users\kush\desktop\cos\include\eggplantcasserole.h
+	<FoodItem.h>
+
+1399152008 c:\users\kush\desktop\cos\include\fooditem.h
+
+1399152120 c:\users\kush\desktop\cos\include\turkeysandwich.h
+	<FoodItem.h>
+	<CondimentList.h>
+
+1399152354 c:\users\kush\desktop\cos\include\condimentlist.h
+	<CondimentListNode.h>
+
+1399152660 c:\users\kush\desktop\cos\include\condimentlistnode.h
+
+1399152152 c:\users\kush\desktop\cos\include\salmon.h
+	<FoodItem.h>
+
+1399152287 c:\users\kush\desktop\cos\include\filist.h
+	<FIListNode.h>
+
+1399152692 c:\users\kush\desktop\cos\include\filistnode.h
+	<FoodItem.h>
+
+1399111427 source:c:\users\kush\desktop\cos\src\condimentlist.cpp
+	"CondimentList.h"
+	<iostream>
+
+1399108847 source:c:\users\kush\desktop\cos\src\condimentlistnode.cpp
+	"CondimentListNode.h"
+	<cstring>
+
+1399111542 source:c:\users\kush\desktop\cos\src\eggplantcasserole.cpp
+	"EggplantCasserole.h"
+	<iostream>
+	<cstring>
+
+1399153871 source:c:\users\kush\desktop\cos\src\filistnode.cpp
+	"FIListNode.h"
+	<iostream>
+
+1399111481 source:c:\users\kush\desktop\cos\src\fooditem.cpp
+	"FoodItem.h"
+	<iostream>
+	<cstring>
+
+1399111494 source:c:\users\kush\desktop\cos\src\salmon.cpp
+	"Salmon.h"
+	<iostream>
+	<cstring>
+
+1399110454 source:c:\users\kush\desktop\cos\src\turkeysandwich.cpp
+	"TurkeySandwich.h"
+	<iostream>
+	<cstring>
+
+1399154648 source:c:\users\kush\desktop\cos\src\filist.cpp
+	"FIList.h"
+	<iostream>
+	<FoodItem.h>
+
